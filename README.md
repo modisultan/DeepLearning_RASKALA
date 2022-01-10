@@ -18,10 +18,17 @@ trash. Where the original dataset consists of 2527 images, in this project.
 
 ### Tools and hardware:
 Here the tools and hardware that will be initially uses in this project:
+
 Raspberry Pi 4
+
 Camera V2
-Google Colab,
+
+Google Colab
+
 Pandas
+
 Numpy
+
 Seaborn
+
 Fastai.
