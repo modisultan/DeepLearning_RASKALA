@@ -1,4 +1,4 @@
-# Recycling waste classification using Deep learning 
+# Smart Trash In Smart City
 
 ### Introduction:
 
@@ -20,3 +20,6 @@ Here is the tools that will be initially uses in this project:
 Here is the hardware that will be initially uses in this project:
 - Raspberry Pi 4
 - Camera V2
+
+
+ presentation link :https://prezi.com/view/3JuGXADXcxsTg8l7F5YT/ 
