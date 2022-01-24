@@ -1,28 +1,18 @@
-# RASKALA
+# deployment in raspberry pi
 
-### Introduction:
+### How we get Result :
+Put the object in front of the camera, opened the camera Accordingly,
+the production of the object came out
 
-Effective waste recycling is both economic and environmentally beneficial. It can help in recovering raw resources, preserving energy, mitigating greenhouse gaseous emission, water pollution, reducing new landfills. For that reason, we decide to use deep learning for building an automatic classification system for the waste item as either recyclable or not.
 
-# 
+![image](https://user-images.githubusercontent.com/93180429/150776844-4a5c5723-2d68-41db-aee6-b11d8ff097fc.png)
 
-### Data Description:
 
-The used dataset in this project from <a href="https://github.com/MostefaBen/Trash-classification">GitHub Link</a> , has six classes: glass, paper, cardboard, plastic, metal, and trash. Where it consists of 2527 images.
 
-# 
+#
 
-### Tools :
-Here is the tools that will be initially uses in this project:
-- Pandas
-- Numpy
-- Seaborn
-- sklearn
-- Fastai
-- Google Colab
-### Hardware :
-Here is the hardware that will be initially uses in this project:
-- Raspberry Pi 4
-- Camera V2
 
+### Recourse :
+Her resourse thet we used in deployment 
+<a href="https://github.com/microsoft/TrashClassifier/blob/master/rpi_trash_classifier.py">Data</a>
 
