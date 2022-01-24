@@ -1,4 +1,4 @@
-# Raskala
+# deployment in raspberry pi
 
 ### How we get Result :
 Put the object in front of the camera, opened the camera Accordingly,
