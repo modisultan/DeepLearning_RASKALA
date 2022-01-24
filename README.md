@@ -2,15 +2,6 @@
 
 
 
-
- 
- 
- 
-![logo](https://user-images.githubusercontent.com/93180429/150821580-d0c9c87a-1e50-4190-886b-4ddf3cee80b8.jpg)
-
- 
-
-
 ### Introduction:
 
 Effective waste recycling is both economic and environmentally beneficial. It can help in recovering raw resources, preserving energy, mitigating greenhouse gaseous emission, water pollution, reducing new landfills. For that reason, we decide to use deep learning for building an automatic classification system for the waste item as either recyclable or not.
@@ -37,3 +28,9 @@ Here is the hardware that will be initially uses in this project:
 - Camera V2
 
 
+ 
+ 
+![logo](https://user-images.githubusercontent.com/93180429/150821580-d0c9c87a-1e50-4190-886b-4ddf3cee80b8.jpg)
+
+ 
+# 
