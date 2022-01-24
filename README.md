@@ -5,7 +5,7 @@
 Effective waste recycling is both economic and environmentally beneficial. It can help in recovering raw resources, preserving energy, mitigating greenhouse gaseous emission, water pollution, reducing new landfills. For that reason, we decide to use deep learning for building an automatic classification system for the waste item as either recyclable or not.
 # 
 
-  ![logo](https://user-images.githubusercontent.com/93180429/150768964-7f47c614-fe21-48d7-b52a-8de26602c931.jpg)
+###                           ![logo](https://user-images.githubusercontent.com/93180429/150768964-7f47c614-fe21-48d7-b52a-8de26602c931.jpg)
 
 
 
