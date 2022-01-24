@@ -5,17 +5,20 @@
 Effective waste recycling is both economic and environmentally beneficial. It can help in recovering raw resources, preserving energy, mitigating greenhouse gaseous emission, water pollution, reducing new landfills. For that reason, we decide to use deep learning for building an automatic classification system for the waste item as either recyclable or not.
 # 
 
-                ![logo](https://user-images.githubusercontent.com/93180429/150768964-7f47c614-fe21-48d7-b52a-8de26602c931.jpg)
+  ![logo](https://user-images.githubusercontent.com/93180429/150768964-7f47c614-fe21-48d7-b52a-8de26602c931.jpg)
+
 
 
 
 RASKALA means 
 
-
+# 
 
 ### Data Description:
 
 The used dataset in this project from <a href="https://github.com/MostefaBen/Trash-classification">GitHub Link</a> , has six classes: glass, paper, cardboard, plastic, metal, and trash. Where it consists of 2527 images.
+
+# 
 
 ### Tools :
 Here is the tools that will be initially uses in this project:
