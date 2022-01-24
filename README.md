@@ -22,6 +22,8 @@ Here is the tools that will be initially uses in this project:
 - sklearn
 - Fastai
 - Google Colab
+
+
 ### Hardware :
 Here is the hardware that will be initially uses in this project:
 - Raspberry Pi 4
@@ -29,8 +31,3 @@ Here is the hardware that will be initially uses in this project:
 
 
  
- 
-![logo](https://user-images.githubusercontent.com/93180429/150821580-d0c9c87a-1e50-4190-886b-4ddf3cee80b8.jpg)
-
- 
-# 
