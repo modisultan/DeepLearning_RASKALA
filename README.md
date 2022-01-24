@@ -1,4 +1,4 @@
-# Smart Trash In Smart City
+# RASKALA
 
 ### Introduction:
 
@@ -22,4 +22,3 @@ Here is the hardware that will be initially uses in this project:
 - Camera V2
 
 
- presentation link: https://prezi.com/view/3JuGXADXcxsTg8l7F5YT/ 
