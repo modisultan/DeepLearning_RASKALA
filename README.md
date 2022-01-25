@@ -29,5 +29,14 @@ Here is the hardware that will be initially uses in this project:
 - Raspberry Pi 4
 - Camera V2
 
+# 
+
+# project result
+
+
+https://user-images.githubusercontent.com/93180429/150949639-0332bf25-861e-4763-a021-0ce4044924f4.mp4
+
+
+
 
  
