@@ -20,14 +20,6 @@ https://user-images.githubusercontent.com/93180429/150951128-a98325d0-bd1e-4be4-
 
 
 
-
-https://user-images.githubusercontent.com/93180429/150951153-1ed9b8b9-8f7b-4803-b2a8-f47f0bb06af2.mp4
-
-
-
-
-
-
 https://user-images.githubusercontent.com/93180429/150951167-38950dab-7490-4eda-b894-e88c1b4561c2.mp4
 
 
